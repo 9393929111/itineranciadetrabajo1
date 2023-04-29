@@ -1,2 +1,2 @@
-# itineranciadetrabajo1
+# itinera
 pasos del trabajo
